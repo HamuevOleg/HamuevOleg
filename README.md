@@ -1,19 +1,14 @@
 ## Hi there 👋
 
 ## my two moods
-https://www.pinterest.com/pin/797489046557620115/
-https://www.pinterest.com/pin/313422455330749090/
-<!--
-**HamuevOleg/HamuevOleg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table border="0">
+  <tr valign="top">
+    <td>
+      <img src="https://i.pinimg.com/564x/f3/bd/48/f3bd4851406e255f01e85502c34d3f37.jpg" width="350" alt="Настроение 1">
+    </td>
+    <td>
+      <img src="https://i.pinimg.com/564x/24/85/c1/2485c18c5e6d628d0f73c66f7f3699b7.jpg" width="350" alt="Настроение 2">
+    </td>
+  </tr>
+</table>
