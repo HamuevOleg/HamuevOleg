@@ -5,10 +5,10 @@
 <table border="0">
   <tr valign="top">
     <td>
-      <img src="https://i.pinimg.com/564x/f3/bd/48/f3bd4851406e255f01e85502c34d3f37.jpg" width="350" alt="Настроение 1">
+      <img src="https://i.pinimg.com/1200x/a3/7c/89/a37c89c496327c2d040b6f93c6092406.jpg" width="350" alt="">
     </td>
     <td>
-      <img src="https://i.pinimg.com/564x/24/85/c1/2485c18c5e6d628d0f73c66f7f3699b7.jpg" width="350" alt="Настроение 2">
+      <img src="https://i.pinimg.com/736x/6f/d0/a9/6fd0a9dc8c56d8dc8db5e7525cda5439.jpg" width="350" alt="">
     </td>
   </tr>
 </table>
