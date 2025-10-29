@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## my two moods
+https://www.pinterest.com/pin/797489046557620115/
+https://www.pinterest.com/pin/313422455330749090/
 <!--
 **HamuevOleg/HamuevOleg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
